@@ -34,7 +34,7 @@ class Solution:
 >此时dict中key = 0, value = [1, 4]，故dic的value应为list
 ### 3.返回结果的排序
 >拿到结果后**封装为tuble**,然后再调用sorted(),即sor
-
+[cmd Markdown](https://www.zybuluo.com/mdeditor/note/46342)
 
 
 
