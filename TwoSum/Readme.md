@@ -33,7 +33,7 @@ class Solution:
 ### 2：考虑这样一种情况num = [0, 1, 3, 0], target = 0
 >此时dict中key = 0, value = [1, 4]，故dic的value应为list
 ### 3.返回结果的排序
->拿到结果后**封装为tuble**,然后再调用sorted(),即sor
+>拿到结果后**封装为tuble**,然后再调用sorted(),即sorted((num1, num2))
 [cmd Markdown](https://www.zybuluo.com/mdeditor/note/46342)
 
 
