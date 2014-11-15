@@ -28,6 +28,6 @@ $$C_{m+n-2}^{m-1}$$
 或
 $$C_{m+n-2}^{n-1}$$
 
-
+[cmd Makedown](https://www.zybuluo.com/hetong/note/46346)
 
 
